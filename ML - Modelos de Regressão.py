@@ -1,6 +1,3 @@
-####Obs.: Prof., agora aprendi a mexer com dataframe :D
-
-
 import time as t
 import random as r
 import numpy as np
